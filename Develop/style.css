@@ -4,9 +4,8 @@ body {
   line-height: 1;
 }
 
-textarea {
-  background: transparent;
-  border: none;
+.placeholder {
+  background: gray;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
@@ -23,26 +22,24 @@ textarea {
 
 .description {
   white-space: pre-wrap;
+
 }
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
+  border-radius: 10px;
+  background-color: gray;
 }
 
 .row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid rgb(31, 28, 28);
-  border-bottom: 1px solid rgb(31, 28, 28);
-  border-right: 1px solid rgb(31, 28, 28);
-  border-left: 1px solid rgb(31, 28, 28);
+  white-space: normal;
+  height: 60px;
  }
 
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;
+  
 }
 
 .past {
@@ -51,7 +48,7 @@ textarea {
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: gray;
   color: white;
 }
 
