@@ -4,11 +4,11 @@ This easy-to-use app is for everyone who needs to keep track of their busy sched
 
 ### Technologies & Libraries Used
 
-CSS
-HTML
-JavaScript
-JQuery
-Moment.js
+* CSS
+* HTML
+* JavaScript
+* JQuery
+* Moment.js
 
 ### Notes/Issues
 
