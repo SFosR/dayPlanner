@@ -10,10 +10,15 @@ This easy-to-use app is for everyone who needs to keep track of their busy sched
 * JQuery
 * Moment.js
 
-### Notes/Issues
+### Mock Up
 
-I made a mess of this file and had such issues pushing it that I just loaded it the old fashioned way. However, learning a lot about git because of it. 
+<img width="1440" alt="Screen Shot 2021-12-09 at 10 14 59 AM" src="https://user-images.githubusercontent.com/87589967/145423389-9fe77001-3038-4289-bfe4-f03e5a618fec.png">
+
+
+## Issues
+
+I made a mess of this file and had such issues pushing it. However, learning a lot about git and how I need to organize files because of it. 
 
 #### Created by
 
-Bootcamp student Sheri Foster View more of my work at: https://github.com/SFosR or contact me at fostr.sheri@gmail.com
+Bootcamp student Sheri Foster. Contact me at fostr.sheri@gmail.com
